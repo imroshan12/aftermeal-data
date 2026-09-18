@@ -1725,6 +1725,1846 @@
       "kcal": 15,
       "proteinG": 0,
       "carbsG": 3
+    },
+    {
+      "name": "besan chilla",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 120,
+      "proteinG": 6,
+      "carbsG": 15
+    },
+    {
+      "name": "moong dal chilla",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 110,
+      "proteinG": 7,
+      "carbsG": 15
+    },
+    {
+      "name": "paneer paratha",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 260,
+      "proteinG": 10,
+      "carbsG": 30
+    },
+    {
+      "name": "gobi paratha",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 210,
+      "proteinG": 5,
+      "carbsG": 32
+    },
+    {
+      "name": "mooli paratha",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 190,
+      "proteinG": 5,
+      "carbsG": 30
+    },
+    {
+      "name": "methi paratha",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 170,
+      "proteinG": 5,
+      "carbsG": 25
+    },
+    {
+      "name": "palak paratha",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 5,
+      "carbsG": 27
+    },
+    {
+      "name": "sattu paratha",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 240,
+      "proteinG": 8,
+      "carbsG": 34
+    },
+    {
+      "name": "pyaaz paratha",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 200,
+      "proteinG": 5,
+      "carbsG": 31
+    },
+    {
+      "name": "matar paratha",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 210,
+      "proteinG": 6,
+      "carbsG": 32
+    },
+    {
+      "name": "dal paratha",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 7,
+      "carbsG": 32
+    },
+    {
+      "name": "besan roti",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 140,
+      "proteinG": 5,
+      "carbsG": 20
+    },
+    {
+      "name": "bajra roti",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 120,
+      "proteinG": 3,
+      "carbsG": 22
+    },
+    {
+      "name": "jowar roti",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 110,
+      "proteinG": 3,
+      "carbsG": 22
+    },
+    {
+      "name": "ragi roti",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 120,
+      "proteinG": 3,
+      "carbsG": 24
+    },
+    {
+      "name": "ragi dosa",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 140,
+      "proteinG": 3,
+      "carbsG": 25
+    },
+    {
+      "name": "pesarattu",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 150,
+      "proteinG": 7,
+      "carbsG": 22
+    },
+    {
+      "name": "adai",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 170,
+      "proteinG": 7,
+      "carbsG": 25
+    },
+    {
+      "name": "neer dosa",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 90,
+      "proteinG": 2,
+      "carbsG": 18
+    },
+    {
+      "name": "set dosa",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 130,
+      "proteinG": 3,
+      "carbsG": 23
+    },
+    {
+      "name": "rava dosa",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 170,
+      "proteinG": 4,
+      "carbsG": 28
+    },
+    {
+      "name": "onion dosa",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 200,
+      "proteinG": 5,
+      "carbsG": 30
+    },
+    {
+      "name": "paniyaram",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 55,
+      "proteinG": 2,
+      "carbsG": 8
+    },
+    {
+      "name": "appe",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 55,
+      "proteinG": 2,
+      "carbsG": 8
+    },
+    {
+      "name": "kuzhi paniyaram",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 7,
+      "carbsG": 32
+    },
+    {
+      "name": "puttu",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 4,
+      "carbsG": 40
+    },
+    {
+      "name": "puttu kadala",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 400,
+      "proteinG": 13,
+      "carbsG": 55
+    },
+    {
+      "name": "idiyappam",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 100,
+      "proteinG": 2,
+      "carbsG": 22
+    },
+    {
+      "name": "appam stew",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 350,
+      "proteinG": 10,
+      "carbsG": 45
+    },
+    {
+      "name": "vegetable uthappam",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 210,
+      "proteinG": 6,
+      "carbsG": 32
+    },
+    {
+      "name": "rava idli",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 75,
+      "proteinG": 2,
+      "carbsG": 12
+    },
+    {
+      "name": "kanji",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 120,
+      "proteinG": 3,
+      "carbsG": 24
+    },
+    {
+      "name": "pazhaya sadam",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 200,
+      "proteinG": 4,
+      "carbsG": 40
+    },
+    {
+      "name": "curd rice",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 280,
+      "proteinG": 7,
+      "carbsG": 45
+    },
+    {
+      "name": "lemon rice",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 5,
+      "carbsG": 48
+    },
+    {
+      "name": "tamarind rice",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 6,
+      "carbsG": 48
+    },
+    {
+      "name": "coconut rice",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 320,
+      "proteinG": 5,
+      "carbsG": 45
+    },
+    {
+      "name": "tomato rice",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 280,
+      "proteinG": 5,
+      "carbsG": 45
+    },
+    {
+      "name": "bisibele bath",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 9,
+      "carbsG": 48
+    },
+    {
+      "name": "vangi bath",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 6,
+      "carbsG": 48
+    },
+    {
+      "name": "puliyogare",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 6,
+      "carbsG": 48
+    },
+    {
+      "name": "vegetable bath",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 270,
+      "proteinG": 6,
+      "carbsG": 43
+    },
+    {
+      "name": "rasam",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 70,
+      "proteinG": 2,
+      "carbsG": 10
+    },
+    {
+      "name": "rasam rice",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 260,
+      "proteinG": 5,
+      "carbsG": 48
+    },
+    {
+      "name": "more kuzhambu",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 140,
+      "proteinG": 5,
+      "carbsG": 12
+    },
+    {
+      "name": "avial",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 5,
+      "carbsG": 18
+    },
+    {
+      "name": "poriyal",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 140,
+      "proteinG": 4,
+      "carbsG": 15
+    },
+    {
+      "name": "thoran",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 150,
+      "proteinG": 4,
+      "carbsG": 14
+    },
+    {
+      "name": "kootu",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 8,
+      "carbsG": 22
+    },
+    {
+      "name": "keerai",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 100,
+      "proteinG": 5,
+      "carbsG": 10
+    },
+    {
+      "name": "sambar rice",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 8,
+      "carbsG": 52
+    },
+    {
+      "name": "vegetable kurma",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 240,
+      "proteinG": 6,
+      "carbsG": 18
+    },
+    {
+      "name": "chana masala",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 260,
+      "proteinG": 12,
+      "carbsG": 35
+    },
+    {
+      "name": "dal makhani",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 12,
+      "carbsG": 30
+    },
+    {
+      "name": "dal palak",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 190,
+      "proteinG": 10,
+      "carbsG": 25
+    },
+    {
+      "name": "dal baati",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 550,
+      "proteinG": 16,
+      "carbsG": 70
+    },
+    {
+      "name": "dal dhokli",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 10,
+      "carbsG": 45
+    },
+    {
+      "name": "dal panchmel",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 210,
+      "proteinG": 11,
+      "carbsG": 28
+    },
+    {
+      "name": "matki usal",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 190,
+      "proteinG": 11,
+      "carbsG": 28
+    },
+    {
+      "name": "misal pav",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 450,
+      "proteinG": 15,
+      "carbsG": 60
+    },
+    {
+      "name": "usal pav",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 400,
+      "proteinG": 13,
+      "carbsG": 55
+    },
+    {
+      "name": "matki curry",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 200,
+      "proteinG": 11,
+      "carbsG": 28
+    },
+    {
+      "name": "dhokla",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 55,
+      "proteinG": 2,
+      "carbsG": 9
+    },
+    {
+      "name": "khaman",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 60,
+      "proteinG": 3,
+      "carbsG": 8
+    },
+    {
+      "name": "handvo",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 150,
+      "proteinG": 5,
+      "carbsG": 20
+    },
+    {
+      "name": "fafda",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 350,
+      "proteinG": 8,
+      "carbsG": 40
+    },
+    {
+      "name": "dabeli",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 250,
+      "proteinG": 6,
+      "carbsG": 35
+    },
+    {
+      "name": "khandvi",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 8,
+      "carbsG": 20
+    },
+    {
+      "name": "undhiyu",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 280,
+      "proteinG": 8,
+      "carbsG": 30
+    },
+    {
+      "name": "sev tameta",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 240,
+      "proteinG": 5,
+      "carbsG": 25
+    },
+    {
+      "name": "gujarati kadhi",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 150,
+      "proteinG": 6,
+      "carbsG": 18
+    },
+    {
+      "name": "khichu",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 4,
+      "carbsG": 35
+    },
+    {
+      "name": "muthia",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 80,
+      "proteinG": 3,
+      "carbsG": 12
+    },
+    {
+      "name": "patra",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 90,
+      "proteinG": 3,
+      "carbsG": 12
+    },
+    {
+      "name": "dal dhokli gujarati",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 10,
+      "carbsG": 45
+    },
+    {
+      "name": "thepla methi",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 120,
+      "proteinG": 3,
+      "carbsG": 18
+    },
+    {
+      "name": "shrikhund",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 280,
+      "proteinG": 8,
+      "carbsG": 35
+    },
+    {
+      "name": "luchi",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 120,
+      "proteinG": 2,
+      "carbsG": 16
+    },
+    {
+      "name": "luchi aloo dum",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 450,
+      "proteinG": 8,
+      "carbsG": 60
+    },
+    {
+      "name": "aloo dum",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 4,
+      "carbsG": 30
+    },
+    {
+      "name": "macher jhol",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 240,
+      "proteinG": 22,
+      "carbsG": 10
+    },
+    {
+      "name": "shukto",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 150,
+      "proteinG": 4,
+      "carbsG": 18
+    },
+    {
+      "name": "aloo posto",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 240,
+      "proteinG": 5,
+      "carbsG": 25
+    },
+    {
+      "name": "macher paturi",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 22,
+      "carbsG": 5
+    },
+    {
+      "name": "doi maach",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 280,
+      "proteinG": 24,
+      "carbsG": 10
+    },
+    {
+      "name": "ilish bhapa",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 260,
+      "proteinG": 23,
+      "carbsG": 3
+    },
+    {
+      "name": "jhalmuri",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 6,
+      "carbsG": 35
+    },
+    {
+      "name": "muri ghonto",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 250,
+      "proteinG": 10,
+      "carbsG": 30
+    },
+    {
+      "name": "begun bhaja",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 100,
+      "proteinG": 2,
+      "carbsG": 8
+    },
+    {
+      "name": "luchi tarkari",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 450,
+      "proteinG": 9,
+      "carbsG": 60
+    },
+    {
+      "name": "panta bhat",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 4,
+      "carbsG": 36
+    },
+    {
+      "name": "pakhala bhata",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 4,
+      "carbsG": 35
+    },
+    {
+      "name": "dalma",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 200,
+      "proteinG": 8,
+      "carbsG": 28
+    },
+    {
+      "name": "santula",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 140,
+      "proteinG": 5,
+      "carbsG": 18
+    },
+    {
+      "name": "machha bhaja",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 22,
+      "carbsG": 5
+    },
+    {
+      "name": "chhena poda",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 280,
+      "proteinG": 7,
+      "carbsG": 35
+    },
+    {
+      "name": "rasabali",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 6,
+      "carbsG": 25
+    },
+    {
+      "name": "litti chokha",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 450,
+      "proteinG": 14,
+      "carbsG": 60
+    },
+    {
+      "name": "chokha",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 160,
+      "proteinG": 4,
+      "carbsG": 20
+    },
+    {
+      "name": "sattu drink",
+      "unit": "glass",
+      "amount": 1,
+      "kcal": 160,
+      "proteinG": 7,
+      "carbsG": 24
+    },
+    {
+      "name": "sattu sharbat",
+      "unit": "glass",
+      "amount": 1,
+      "kcal": 170,
+      "proteinG": 7,
+      "carbsG": 27
+    },
+    {
+      "name": "dal pitha",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 100,
+      "proteinG": 4,
+      "carbsG": 18
+    },
+    {
+      "name": "malpua",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 3,
+      "carbsG": 25
+    },
+    {
+      "name": "tilkut",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 100,
+      "proteinG": 3,
+      "carbsG": 10
+    },
+    {
+      "name": "khaja",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 130,
+      "proteinG": 2,
+      "carbsG": 20
+    },
+    {
+      "name": "sarson saag",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 160,
+      "proteinG": 6,
+      "carbsG": 15
+    },
+    {
+      "name": "makki saag",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 150,
+      "proteinG": 5,
+      "carbsG": 14
+    },
+    {
+      "name": "rajma chawal",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 480,
+      "proteinG": 15,
+      "carbsG": 75
+    },
+    {
+      "name": "chole chawal",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 480,
+      "proteinG": 14,
+      "carbsG": 75
+    },
+    {
+      "name": "kadhi chawal",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 420,
+      "proteinG": 10,
+      "carbsG": 65
+    },
+    {
+      "name": "palak corn",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 200,
+      "proteinG": 7,
+      "carbsG": 25
+    },
+    {
+      "name": "mushroom masala",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 7,
+      "carbsG": 15
+    },
+    {
+      "name": "mushroom matar",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 230,
+      "proteinG": 8,
+      "carbsG": 20
+    },
+    {
+      "name": "soya chaap",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 20,
+      "carbsG": 18
+    },
+    {
+      "name": "soya chaap tikka",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 350,
+      "proteinG": 22,
+      "carbsG": 20
+    },
+    {
+      "name": "mutton curry",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 350,
+      "proteinG": 28,
+      "carbsG": 8
+    },
+    {
+      "name": "mutton rogan josh",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 380,
+      "proteinG": 28,
+      "carbsG": 8
+    },
+    {
+      "name": "keema",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 350,
+      "proteinG": 25,
+      "carbsG": 10
+    },
+    {
+      "name": "keema matar",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 380,
+      "proteinG": 26,
+      "carbsG": 15
+    },
+    {
+      "name": "tandoori chicken",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 30,
+      "carbsG": 4
+    },
+    {
+      "name": "chicken tikka masala",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 380,
+      "proteinG": 27,
+      "carbsG": 15
+    },
+    {
+      "name": "chicken korma",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 400,
+      "proteinG": 25,
+      "carbsG": 12
+    },
+    {
+      "name": "chicken 65",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 420,
+      "proteinG": 28,
+      "carbsG": 20
+    },
+    {
+      "name": "chicken lollipop",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 150,
+      "proteinG": 10,
+      "carbsG": 8
+    },
+    {
+      "name": "chicken seekh kebab",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 150,
+      "proteinG": 12,
+      "carbsG": 4
+    },
+    {
+      "name": "mutton seekh kebab",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 12,
+      "carbsG": 4
+    },
+    {
+      "name": "fish fry",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 22,
+      "carbsG": 8
+    },
+    {
+      "name": "fish tikka",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 250,
+      "proteinG": 27,
+      "carbsG": 6
+    },
+    {
+      "name": "prawn curry",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 260,
+      "proteinG": 24,
+      "carbsG": 10
+    },
+    {
+      "name": "prawn fry",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 25,
+      "carbsG": 12
+    },
+    {
+      "name": "chicken roll",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 400,
+      "proteinG": 20,
+      "carbsG": 40
+    },
+    {
+      "name": "egg roll",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 350,
+      "proteinG": 14,
+      "carbsG": 40
+    },
+    {
+      "name": "paneer roll",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 380,
+      "proteinG": 15,
+      "carbsG": 40
+    },
+    {
+      "name": "frankie",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 350,
+      "proteinG": 12,
+      "carbsG": 42
+    },
+    {
+      "name": "kathi roll",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 400,
+      "proteinG": 18,
+      "carbsG": 42
+    },
+    {
+      "name": "chicken sandwich",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 350,
+      "proteinG": 20,
+      "carbsG": 35
+    },
+    {
+      "name": "grilled sandwich",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 320,
+      "proteinG": 12,
+      "carbsG": 35
+    },
+    {
+      "name": "bread pakora",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 4,
+      "carbsG": 22
+    },
+    {
+      "name": "mirchi bajji",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 120,
+      "proteinG": 3,
+      "carbsG": 12
+    },
+    {
+      "name": "onion pakora",
+      "unit": "plate",
+      "amount": 1,
+      "kcal": 280,
+      "proteinG": 6,
+      "carbsG": 30
+    },
+    {
+      "name": "aloo bonda",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 140,
+      "proteinG": 3,
+      "carbsG": 18
+    },
+    {
+      "name": "mangalore buns",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 4,
+      "carbsG": 28
+    },
+    {
+      "name": "sabudana vada",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 140,
+      "proteinG": 2,
+      "carbsG": 20
+    },
+    {
+      "name": "sabudana khichdi",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 280,
+      "proteinG": 5,
+      "carbsG": 45
+    },
+    {
+      "name": "sabudana papad",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 50,
+      "proteinG": 1,
+      "carbsG": 8
+    },
+    {
+      "name": "banana chips",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 2,
+      "carbsG": 35
+    },
+    {
+      "name": "chakli",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 90,
+      "proteinG": 2,
+      "carbsG": 10
+    },
+    {
+      "name": "murukku",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 100,
+      "proteinG": 2,
+      "carbsG": 12
+    },
+    {
+      "name": "mixture",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 7,
+      "carbsG": 30
+    },
+    {
+      "name": "namkeen",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 280,
+      "proteinG": 7,
+      "carbsG": 28
+    },
+    {
+      "name": "bhujia",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 6,
+      "carbsG": 30
+    },
+    {
+      "name": "sev",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 7,
+      "carbsG": 28
+    },
+    {
+      "name": "mathri",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 100,
+      "proteinG": 2,
+      "carbsG": 12
+    },
+    {
+      "name": "khakhra",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 100,
+      "proteinG": 3,
+      "carbsG": 16
+    },
+    {
+      "name": "roasted peanuts",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 250,
+      "proteinG": 10,
+      "carbsG": 8
+    },
+    {
+      "name": "til chikki",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 120,
+      "proteinG": 3,
+      "carbsG": 15
+    },
+    {
+      "name": "peanut chikki",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 130,
+      "proteinG": 4,
+      "carbsG": 15
+    },
+    {
+      "name": "gajak",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 140,
+      "proteinG": 4,
+      "carbsG": 16
+    },
+    {
+      "name": "rewri",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 35,
+      "proteinG": 1,
+      "carbsG": 5
+    },
+    {
+      "name": "kaju curry",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 380,
+      "proteinG": 10,
+      "carbsG": 20
+    },
+    {
+      "name": "malai kofta",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 400,
+      "proteinG": 10,
+      "carbsG": 25
+    },
+    {
+      "name": "dum aloo",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 250,
+      "proteinG": 5,
+      "carbsG": 30
+    },
+    {
+      "name": "navratan korma",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 8,
+      "carbsG": 25
+    },
+    {
+      "name": "bhindi masala",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 5,
+      "carbsG": 20
+    },
+    {
+      "name": "karela sabzi",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 160,
+      "proteinG": 4,
+      "carbsG": 18
+    },
+    {
+      "name": "tinda sabzi",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 130,
+      "proteinG": 3,
+      "carbsG": 15
+    },
+    {
+      "name": "parwal sabzi",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 150,
+      "proteinG": 3,
+      "carbsG": 18
+    },
+    {
+      "name": "drumstick curry",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 150,
+      "proteinG": 5,
+      "carbsG": 18
+    },
+    {
+      "name": "soya aloo",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 250,
+      "proteinG": 12,
+      "carbsG": 30
+    },
+    {
+      "name": "sugarcane juice",
+      "unit": "glass",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 0,
+      "carbsG": 45
+    },
+    {
+      "name": "mango shake",
+      "unit": "glass",
+      "amount": 1,
+      "kcal": 250,
+      "proteinG": 7,
+      "carbsG": 40
+    },
+    {
+      "name": "banana shake",
+      "unit": "glass",
+      "amount": 1,
+      "kcal": 250,
+      "proteinG": 8,
+      "carbsG": 40
+    },
+    {
+      "name": "cold coffee",
+      "unit": "glass",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 7,
+      "carbsG": 30
+    },
+    {
+      "name": "nimbu pani",
+      "unit": "glass",
+      "amount": 1,
+      "kcal": 80,
+      "proteinG": 0,
+      "carbsG": 20
+    },
+    {
+      "name": "jaljeera",
+      "unit": "glass",
+      "amount": 1,
+      "kcal": 30,
+      "proteinG": 0,
+      "carbsG": 6
+    },
+    {
+      "name": "aam panna",
+      "unit": "glass",
+      "amount": 1,
+      "kcal": 90,
+      "proteinG": 0,
+      "carbsG": 22
+    },
+    {
+      "name": "thandai",
+      "unit": "glass",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 7,
+      "carbsG": 25
+    },
+    {
+      "name": "badam milk",
+      "unit": "glass",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 7,
+      "carbsG": 20
+    },
+    {
+      "name": "rose milk",
+      "unit": "glass",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 7,
+      "carbsG": 25
+    },
+    {
+      "name": "kaju barfi",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 90,
+      "proteinG": 2,
+      "carbsG": 10
+    },
+    {
+      "name": "rasmalai",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 6,
+      "carbsG": 20
+    },
+    {
+      "name": "sandesh",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 100,
+      "proteinG": 4,
+      "carbsG": 14
+    },
+    {
+      "name": "mishti doi",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 5,
+      "carbsG": 28
+    },
+    {
+      "name": "soan papdi",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 110,
+      "proteinG": 2,
+      "carbsG": 15
+    },
+    {
+      "name": "peda",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 110,
+      "proteinG": 3,
+      "carbsG": 14
+    },
+    {
+      "name": "modak",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 150,
+      "proteinG": 2,
+      "carbsG": 25
+    },
+    {
+      "name": "peda milk",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 110,
+      "proteinG": 3,
+      "carbsG": 14
+    },
+    {
+      "name": "mysore pak",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 3,
+      "carbsG": 18
+    },
+    {
+      "name": "payasam",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 240,
+      "proteinG": 6,
+      "carbsG": 35
+    },
+    {
+      "name": "semiya payasam",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 250,
+      "proteinG": 6,
+      "carbsG": 38
+    },
+    {
+      "name": "pootharekulu",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 130,
+      "proteinG": 2,
+      "carbsG": 20
+    },
+    {
+      "name": "chikoo",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 85,
+      "proteinG": 1,
+      "carbsG": 20
+    },
+    {
+      "name": "custard apple",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 135,
+      "proteinG": 3,
+      "carbsG": 34
+    },
+    {
+      "name": "jackfruit",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 150,
+      "proteinG": 3,
+      "carbsG": 38
+    },
+    {
+      "name": "jamun",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 65,
+      "proteinG": 1,
+      "carbsG": 15
+    },
+    {
+      "name": "ber",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 80,
+      "proteinG": 1,
+      "carbsG": 20
+    },
+    {
+      "name": "fig",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 40,
+      "proteinG": 1,
+      "carbsG": 10
+    },
+    {
+      "name": "peach",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 60,
+      "proteinG": 1,
+      "carbsG": 15
+    },
+    {
+      "name": "plum",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 45,
+      "proteinG": 1,
+      "carbsG": 11
+    },
+    {
+      "name": "apricot",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 20,
+      "proteinG": 0,
+      "carbsG": 5
+    },
+    {
+      "name": "dragon fruit",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 100,
+      "proteinG": 2,
+      "carbsG": 22
+    },
+    {
+      "name": "flax seeds",
+      "unit": "tbsp",
+      "amount": 1,
+      "kcal": 55,
+      "proteinG": 2,
+      "carbsG": 3
+    },
+    {
+      "name": "chia seeds",
+      "unit": "tbsp",
+      "amount": 1,
+      "kcal": 60,
+      "proteinG": 2,
+      "carbsG": 5
+    },
+    {
+      "name": "pumpkin seeds",
+      "unit": "tbsp",
+      "amount": 1,
+      "kcal": 55,
+      "proteinG": 3,
+      "carbsG": 2
+    },
+    {
+      "name": "sunflower seeds",
+      "unit": "tbsp",
+      "amount": 1,
+      "kcal": 50,
+      "proteinG": 2,
+      "carbsG": 2
+    },
+    {
+      "name": "sesame seeds",
+      "unit": "tbsp",
+      "amount": 1,
+      "kcal": 50,
+      "proteinG": 2,
+      "carbsG": 2
+    },
+    {
+      "name": "makhana curry",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 240,
+      "proteinG": 7,
+      "carbsG": 25
+    },
+    {
+      "name": "peanut butter",
+      "unit": "tbsp",
+      "amount": 1,
+      "kcal": 95,
+      "proteinG": 4,
+      "carbsG": 3
+    },
+    {
+      "name": "hummus",
+      "unit": "tbsp",
+      "amount": 1,
+      "kcal": 35,
+      "proteinG": 1,
+      "carbsG": 3
+    },
+    {
+      "name": "tahini",
+      "unit": "tbsp",
+      "amount": 1,
+      "kcal": 90,
+      "proteinG": 3,
+      "carbsG": 3
+    },
+    {
+      "name": "dalia",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 7,
+      "carbsG": 40
+    },
+    {
+      "name": "vegetable dalia",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 230,
+      "proteinG": 7,
+      "carbsG": 38
+    },
+    {
+      "name": "milk dalia",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 280,
+      "proteinG": 9,
+      "carbsG": 42
+    },
+    {
+      "name": "ragi porridge",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 220,
+      "proteinG": 6,
+      "carbsG": 38
+    },
+    {
+      "name": "sattu porridge",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 250,
+      "proteinG": 10,
+      "carbsG": 35
+    },
+    {
+      "name": "barley porridge",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 210,
+      "proteinG": 6,
+      "carbsG": 40
+    },
+    {
+      "name": "ragi malt",
+      "unit": "glass",
+      "amount": 1,
+      "kcal": 180,
+      "proteinG": 5,
+      "carbsG": 30
+    },
+    {
+      "name": "sprouts salad",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 150,
+      "proteinG": 9,
+      "carbsG": 22
+    },
+    {
+      "name": "boiled sprouts",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 120,
+      "proteinG": 8,
+      "carbsG": 18
+    },
+    {
+      "name": "boiled chana",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 210,
+      "proteinG": 11,
+      "carbsG": 34
+    },
+    {
+      "name": "white butter",
+      "unit": "tbsp",
+      "amount": 1,
+      "kcal": 100,
+      "proteinG": 0,
+      "carbsG": 0
+    },
+    {
+      "name": "ghee",
+      "unit": "tbsp",
+      "amount": 1,
+      "kcal": 120,
+      "proteinG": 0,
+      "carbsG": 0
+    },
+    {
+      "name": "honey",
+      "unit": "tbsp",
+      "amount": 1,
+      "kcal": 65,
+      "proteinG": 0,
+      "carbsG": 17
+    },
+    {
+      "name": "jaggery",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 75,
+      "proteinG": 0,
+      "carbsG": 19
+    },
+    {
+      "name": "sugar",
+      "unit": "g",
+      "amount": 4,
+      "kcal": 16,
+      "proteinG": 0,
+      "carbsG": 4
+    },
+    {
+      "name": "rusk",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 40,
+      "proteinG": 1,
+      "carbsG": 7
+    },
+    {
+      "name": "cream biscuit",
+      "unit": "piece",
+      "amount": 1,
+      "kcal": 55,
+      "proteinG": 1,
+      "carbsG": 8
+    },
+    {
+      "name": "namak para",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 280,
+      "proteinG": 5,
+      "carbsG": 32
+    },
+    {
+      "name": "shakarpara",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 300,
+      "proteinG": 4,
+      "carbsG": 40
+    },
+    {
+      "name": "puffed rice",
+      "unit": "bowl",
+      "amount": 1,
+      "kcal": 100,
+      "proteinG": 2,
+      "carbsG": 22
     }
   ]
 }
