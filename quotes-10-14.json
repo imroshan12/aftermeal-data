@@ -1,60 +1,204 @@
 {
-  "schemaVersion": 1,
-  "ageGroup": "10-14",
-  "generatedAt": "2026-09-18",
-  "quotes": [
-    { "text": "Take care of your body. It's the only place you have to live.", "author": "Jim Rohn" },
-    { "text": "The best time to plant a tree was twenty years ago. The second best time is now.", "author": "Chinese proverb" },
-    { "text": "Your body hears everything your mind says.", "author": "Naomi Judd" },
-    { "text": "Little by little, one travels far.", "author": "Traditional wisdom" },
-    { "text": "Movement is a medicine for creating change in a person's physical, emotional, and mental states.", "author": "Carol Welch" },
-    { "text": "You are never too small to make a difference.", "author": "Greta Thunberg" },
-    { "text": "The way to get started is to quit talking and begin doing.", "author": "Walt Disney" },
-    { "text": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt" },
-    { "text": "It always seems impossible until it's done.", "author": "Nelson Mandela" },
-    { "text": "The only way to do great work is to love what you do.", "author": "Steve Jobs" },
-    { "text": "It does not matter how slowly you go as long as you do not stop.", "author": "Confucius" },
-    { "text": "In the middle of every difficulty lies opportunity.", "author": "Albert Einstein" },
-    { "text": "The mind is not a vessel to be filled but a fire to be kindled.", "author": "Plutarch" },
-    { "text": "Try to be a rainbow in someone's cloud.", "author": "Maya Angelou" },
-    { "text": "A journey of a thousand miles begins with a single step.", "author": "Lao Tzu" },
-    { "text": "Small acts, when multiplied by millions of people, can transform the world.", "author": "Howard Zinn" },
-    { "text": "The best preparation for tomorrow is doing your best today.", "author": "H. Jackson Brown Jr." },
-    { "text": "Kindness is the language which the deaf can hear and the blind can see.", "author": "Mark Twain" },
-    { "text": "You miss 100 percent of the shots you don't take.", "author": "Wayne Gretzky" },
-    { "text": "Whatever you are, be a good one.", "author": "Abraham Lincoln" },
-    { "text": "The future depends on what you do today.", "author": "Mahatma Gandhi" },
-    { "text": "You can't go back and change the beginning, but you can start where you are and change the ending.", "author": "C.S. Lewis" },
-    { "text": "Wherever you go, go with all your heart.", "author": "Confucius" },
-    { "text": "What you do makes a difference, and you have to decide what kind of difference you want to make.", "author": "Jane Goodall" },
-    { "text": "Do what you can, with what you have, where you are.", "author": "Theodore Roosevelt" },
-    { "text": "Be curious, not judgmental.", "author": "Walt Whitman" },
-    { "text": "The important thing is to not stop questioning.", "author": "Albert Einstein" },
-    { "text": "Every strike brings me closer to the next home run.", "author": "Babe Ruth" },
-    { "text": "Fall seven times, stand up eight.", "author": "Japanese proverb" },
-    { "text": "It's not whether you get knocked down; it's whether you get up.", "author": "Vince Lombardi" },
-    { "text": "You are braver than you believe, stronger than you seem, and smarter than you think.", "author": "A.A. Milne" },
-    { "text": "The only person you are destined to become is the person you decide to be.", "author": "Ralph Waldo Emerson" },
-    { "text": "Nothing worth having comes easy.", "author": "Traditional wisdom" },
-    { "text": "Read as much as you can, whenever you can.", "author": "Traditional wisdom" },
-    { "text": "A friend is someone who makes you feel entirely yourself.", "author": "Elbert Hubbard" },
-    { "text": "Eat well to feel well.", "author": "Traditional wisdom" },
-    { "text": "Sleep is the golden chain that ties health and our bodies together.", "author": "Thomas Dekker" },
-    { "text": "Water is the driving force of all nature.", "author": "Leonardo da Vinci" },
-    { "text": "You can never have too many friends of books.", "author": "Traditional wisdom" },
-    { "text": "Practice makes progress, not perfection.", "author": "Traditional wisdom" },
-    { "text": "Great things never came from comfort zones.", "author": "Traditional wisdom" },
-    { "text": "The expert in anything was once a beginner.", "author": "Helen Hayes" },
-    { "text": "Don't watch the clock; do what it does. Keep going.", "author": "Sam Levenson" },
-    { "text": "Play with your whole heart or don't play at all.", "author": "Traditional wisdom" },
-    { "text": "A little progress each day adds up to big results.", "author": "Satya Nani" },
-    { "text": "You don't have to be great to start, but you have to start to be great.", "author": "Zig Ziglar" },
-    { "text": "Notice small joys — they add up to a good day.", "author": "Traditional wisdom" },
-    { "text": "The body achieves what the mind believes.", "author": "Napoleon Hill" },
-    { "text": "Curiosity is the wick in the candle of learning.", "author": "William Arthur Ward" },
-    { "text": "Rest is not idleness — it is what makes tomorrow possible.", "author": "Traditional wisdom" },
-    { "text": "Be strong. Be brave. Be humble. Be kind.", "author": "Traditional wisdom" },
-    { "text": "A calm mind is a healthy mind.", "author": "Traditional wisdom" },
-    { "text": "Every day is a new chance to try again.", "author": "Traditional wisdom" }
-  ]
+	"schemaVersion": 1,
+	"ageGroup": "10-14",
+	"generatedAt": "2026-09-18",
+	"quotes": [
+		{
+			"text": "Take care of your body. It's the only place you have to live.",
+			"author": "Jim Rohn"
+		},
+		{
+			"text": "The best time to plant a tree was twenty years ago. The second best time is now.",
+			"author": "Chinese proverb"
+		},
+		{
+			"text": "Your body hears everything your mind says.",
+			"author": "Naomi Judd"
+		},
+		{ "text": "Little by little, one travels far.", "author": "Anonymous" },
+		{
+			"text": "Movement is a medicine for creating change in a person's physical, emotional, and mental states.",
+			"author": "Carol Welch"
+		},
+		{
+			"text": "You are never too small to make a difference.",
+			"author": "Greta Thunberg"
+		},
+		{
+			"text": "The way to get started is to quit talking and begin doing.",
+			"author": "Walt Disney"
+		},
+		{
+			"text": "Believe you can and you're halfway there.",
+			"author": "Theodore Roosevelt"
+		},
+		{
+			"text": "It always seems impossible until it's done.",
+			"author": "Nelson Mandela"
+		},
+		{
+			"text": "The only way to do great work is to love what you do.",
+			"author": "Steve Jobs"
+		},
+		{
+			"text": "It does not matter how slowly you go as long as you do not stop.",
+			"author": "Confucius"
+		},
+		{
+			"text": "In the middle of every difficulty lies opportunity.",
+			"author": "Albert Einstein"
+		},
+		{
+			"text": "The mind is not a vessel to be filled but a fire to be kindled.",
+			"author": "Plutarch"
+		},
+		{
+			"text": "Try to be a rainbow in someone's cloud.",
+			"author": "Maya Angelou"
+		},
+		{
+			"text": "A journey of a thousand miles begins with a single step.",
+			"author": "Lao Tzu"
+		},
+		{
+			"text": "Small acts, when multiplied by millions of people, can transform the world.",
+			"author": "Howard Zinn"
+		},
+		{
+			"text": "The best preparation for tomorrow is doing your best today.",
+			"author": "H. Jackson Brown Jr."
+		},
+		{
+			"text": "Kindness is the language which the deaf can hear and the blind can see.",
+			"author": "Mark Twain"
+		},
+		{
+			"text": "You miss 100 percent of the shots you don't take.",
+			"author": "Wayne Gretzky"
+		},
+		{
+			"text": "Whatever you are, be a good one.",
+			"author": "Abraham Lincoln"
+		},
+		{
+			"text": "The future depends on what you do today.",
+			"author": "Mahatma Gandhi"
+		},
+		{
+			"text": "You can't go back and change the beginning, but you can start where you are and change the ending.",
+			"author": "C.S. Lewis"
+		},
+		{
+			"text": "Wherever you go, go with all your heart.",
+			"author": "Confucius"
+		},
+		{
+			"text": "What you do makes a difference, and you have to decide what kind of difference you want to make.",
+			"author": "Jane Goodall"
+		},
+		{
+			"text": "Do what you can, with what you have, where you are.",
+			"author": "Theodore Roosevelt"
+		},
+		{ "text": "Be curious, not judgmental.", "author": "Walt Whitman" },
+		{
+			"text": "The important thing is to not stop questioning.",
+			"author": "Albert Einstein"
+		},
+		{
+			"text": "Every strike brings me closer to the next home run.",
+			"author": "Babe Ruth"
+		},
+		{
+			"text": "Fall seven times, stand up eight.",
+			"author": "Japanese proverb"
+		},
+		{
+			"text": "It's not whether you get knocked down; it's whether you get up.",
+			"author": "Vince Lombardi"
+		},
+		{
+			"text": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+			"author": "A.A. Milne"
+		},
+		{
+			"text": "The only person you are destined to become is the person you decide to be.",
+			"author": "Ralph Waldo Emerson"
+		},
+		{ "text": "Nothing worth having comes easy.", "author": "Anonymous" },
+		{
+			"text": "Read as much as you can, whenever you can.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "A friend is someone who makes you feel entirely yourself.",
+			"author": "Elbert Hubbard"
+		},
+		{ "text": "Eat well to feel well.", "author": "Anonymous" },
+		{
+			"text": "Sleep is the golden chain that ties health and our bodies together.",
+			"author": "Thomas Dekker"
+		},
+		{
+			"text": "Water is the driving force of all nature.",
+			"author": "Leonardo da Vinci"
+		},
+		{
+			"text": "You can never have too many friends of books.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Practice makes progress, not perfection.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Great things never came from comfort zones.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The expert in anything was once a beginner.",
+			"author": "Helen Hayes"
+		},
+		{
+			"text": "Don't watch the clock; do what it does. Keep going.",
+			"author": "Sam Levenson"
+		},
+		{
+			"text": "Play with your whole heart or don't play at all.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "A little progress each day adds up to big results.",
+			"author": "Satya Nani"
+		},
+		{
+			"text": "You don't have to be great to start, but you have to start to be great.",
+			"author": "Zig Ziglar"
+		},
+		{
+			"text": "Notice small joys — they add up to a good day.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The body achieves what the mind believes.",
+			"author": "Napoleon Hill"
+		},
+		{
+			"text": "Curiosity is the wick in the candle of learning.",
+			"author": "William Arthur Ward"
+		},
+		{
+			"text": "Rest is not idleness — it is what makes tomorrow possible.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Be strong. Be brave. Be humble. Be kind.",
+			"author": "Anonymous"
+		},
+		{ "text": "A calm mind is a healthy mind.", "author": "Anonymous" },
+		{
+			"text": "Every day is a new chance to try again.",
+			"author": "Anonymous"
+		}
+	]
 }

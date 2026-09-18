@@ -1,60 +1,207 @@
 {
-  "schemaVersion": 1,
-  "ageGroup": "30-39",
-  "generatedAt": "2026-09-18",
-  "quotes": [
-    { "text": "Health is not valued till sickness comes.", "author": "Thomas Fuller" },
-    { "text": "The part can never be well unless the whole is well.", "author": "Plato" },
-    { "text": "Early to bed and early to rise makes a man healthy, wealthy, and wise.", "author": "Benjamin Franklin" },
-    { "text": "Life is not merely being alive, but being well.", "author": "Marcus Valerius Martialis" },
-    { "text": "In matters of self-control, the human is often the animal that has the least control.", "author": "Swami Vivekananda" },
-    { "text": "The greatest wealth is health.", "author": "Virgil" },
-    { "text": "A healthy outside starts from the inside.", "author": "Robert Urich" },
-    { "text": "Take care of your body. It's the only place you have to live.", "author": "Jim Rohn" },
-    { "text": "He who has health has hope; and he who has hope has everything.", "author": "Thomas Carlyle" },
-    { "text": "Your body is a temple, but only if you treat it as one.", "author": "Astrid Alauda" },
-    { "text": "The higher your energy level, the more efficient your body.", "author": "Anthony Robbins" },
-    { "text": "You are the average of the five people you spend the most time with.", "author": "Jim Rohn" },
-    { "text": "The best investment you can make is in your own health.", "author": "Traditional wisdom" },
-    { "text": "It is exercise alone that supports the spirits and keeps the mind in vigor.", "author": "Marcus Tullius Cicero" },
-    { "text": "A journey of a thousand miles begins with a single step.", "author": "Lao Tzu" },
-    { "text": "Discipline is choosing between what you want now and what you want most.", "author": "Abraham Lincoln" },
-    { "text": "You cannot outrun a bad diet.", "author": "Traditional wisdom" },
-    { "text": "The best time for new beginnings is now.", "author": "Traditional wisdom" },
-    { "text": "Movement is a gift you give your future self.", "author": "Traditional wisdom" },
-    { "text": "The habits of your thirties become the health of your fifties.", "author": "Traditional wisdom" },
-    { "text": "Sleep is the best meditation.", "author": "The Dalai Lama" },
-    { "text": "Small daily improvements are the key to staggering long-term results.", "author": "Traditional wisdom" },
-    { "text": "Consistency compounds.", "author": "Traditional wisdom" },
-    { "text": "The best way to take care of the future is to take care of the present moment.", "author": "Thich Nhat Hanh" },
-    { "text": "You don't have to see the whole staircase, just take the first step.", "author": "Martin Luther King Jr." },
-    { "text": "Rest is the meeting ground of the body and the mind.", "author": "Traditional wisdom" },
-    { "text": "The best day to start was yesterday. The next best day is today.", "author": "Traditional wisdom" },
-    { "text": "You cannot pour from an empty cup — fill yours first.", "author": "Traditional wisdom" },
-    { "text": "Your habits are what you're building, whether you notice or not.", "author": "Traditional wisdom" },
-    { "text": "Simple food, simple sleep, simple life.", "author": "Traditional wisdom" },
-    { "text": "Real strength is knowing when to stop.", "author": "Traditional wisdom" },
-    { "text": "The body keeps the score — long after the mind forgets.", "author": "Bessel van der Kolk" },
-    { "text": "Eat like you love yourself. Move like you love yourself. Rest like you love yourself.", "author": "Traditional wisdom" },
-    { "text": "In a busy life, health is the calendar item you protect first.", "author": "Traditional wisdom" },
-    { "text": "What you choose to keep in your life shapes it more than what you strive for.", "author": "Traditional wisdom" },
-    { "text": "There is no substitute for sleep — none.", "author": "Traditional wisdom" },
-    { "text": "Your body speaks in whispers before it shouts.", "author": "Traditional wisdom" },
-    { "text": "Rest is not the opposite of ambition — it is what makes ambition sustainable.", "author": "Traditional wisdom" },
-    { "text": "Show up quietly for yourself every day.", "author": "Traditional wisdom" },
-    { "text": "The best gift you can give your family is a healthy you.", "author": "Joyce Meyer" },
-    { "text": "Water first. Coffee second. Everything else can wait.", "author": "Traditional wisdom" },
-    { "text": "Ten minutes of walking beats zero minutes of planning.", "author": "Traditional wisdom" },
-    { "text": "The way you feel matters — it's data too.", "author": "Traditional wisdom" },
-    { "text": "You can rebuild any habit. Start small.", "author": "Traditional wisdom" },
-    { "text": "Your body is on your side — listen to it.", "author": "Traditional wisdom" },
-    { "text": "The healthiest people rest without guilt.", "author": "Traditional wisdom" },
-    { "text": "Time you enjoy wasting is not time wasted.", "author": "Marthe Troly-Curtin" },
-    { "text": "Boredom is the beginning of a good idea.", "author": "Traditional wisdom" },
-    { "text": "Every early night is a gift to tomorrow.", "author": "Traditional wisdom" },
-    { "text": "Nothing changes if nothing changes.", "author": "Traditional wisdom" },
-    { "text": "Your calendar tells you what you value. Read it honestly.", "author": "Traditional wisdom" },
-    { "text": "Health is a long game, and every day is a move.", "author": "Traditional wisdom" },
-    { "text": "The strongest people I know rest when tired, not when finished.", "author": "Traditional wisdom" }
-  ]
+	"schemaVersion": 1,
+	"ageGroup": "30-39",
+	"generatedAt": "2026-09-18",
+	"quotes": [
+		{
+			"text": "Health is not valued till sickness comes.",
+			"author": "Thomas Fuller"
+		},
+		{
+			"text": "The part can never be well unless the whole is well.",
+			"author": "Plato"
+		},
+		{
+			"text": "Early to bed and early to rise makes a man healthy, wealthy, and wise.",
+			"author": "Benjamin Franklin"
+		},
+		{
+			"text": "Life is not merely being alive, but being well.",
+			"author": "Marcus Valerius Martialis"
+		},
+		{
+			"text": "In matters of self-control, the human is often the animal that has the least control.",
+			"author": "Swami Vivekananda"
+		},
+		{ "text": "The greatest wealth is health.", "author": "Virgil" },
+		{
+			"text": "A healthy outside starts from the inside.",
+			"author": "Robert Urich"
+		},
+		{
+			"text": "Take care of your body. It's the only place you have to live.",
+			"author": "Jim Rohn"
+		},
+		{
+			"text": "He who has health has hope; and he who has hope has everything.",
+			"author": "Thomas Carlyle"
+		},
+		{
+			"text": "Your body is a temple, but only if you treat it as one.",
+			"author": "Astrid Alauda"
+		},
+		{
+			"text": "The higher your energy level, the more efficient your body.",
+			"author": "Anthony Robbins"
+		},
+		{
+			"text": "You are the average of the five people you spend the most time with.",
+			"author": "Jim Rohn"
+		},
+		{
+			"text": "The best investment you can make is in your own health.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "It is exercise alone that supports the spirits and keeps the mind in vigor.",
+			"author": "Marcus Tullius Cicero"
+		},
+		{
+			"text": "A journey of a thousand miles begins with a single step.",
+			"author": "Lao Tzu"
+		},
+		{
+			"text": "Discipline is choosing between what you want now and what you want most.",
+			"author": "Abraham Lincoln"
+		},
+		{ "text": "You cannot outrun a bad diet.", "author": "Anonymous" },
+		{
+			"text": "The best time for new beginnings is now.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Movement is a gift you give your future self.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The habits of your thirties become the health of your fifties.",
+			"author": "Anonymous"
+		},
+		{ "text": "Sleep is the best meditation.", "author": "The Dalai Lama" },
+		{
+			"text": "Small daily improvements are the key to staggering long-term results.",
+			"author": "Anonymous"
+		},
+		{ "text": "Consistency compounds.", "author": "Anonymous" },
+		{
+			"text": "The best way to take care of the future is to take care of the present moment.",
+			"author": "Thich Nhat Hanh"
+		},
+		{
+			"text": "You don't have to see the whole staircase, just take the first step.",
+			"author": "Martin Luther King Jr."
+		},
+		{
+			"text": "Rest is the meeting ground of the body and the mind.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The best day to start was yesterday. The next best day is today.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "You cannot pour from an empty cup — fill yours first.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Your habits are what you're building, whether you notice or not.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Simple food, simple sleep, simple life.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Real strength is knowing when to stop.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The body keeps the score — long after the mind forgets.",
+			"author": "Bessel van der Kolk"
+		},
+		{
+			"text": "Eat like you love yourself. Move like you love yourself. Rest like you love yourself.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "In a busy life, health is the calendar item you protect first.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "What you choose to keep in your life shapes it more than what you strive for.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "There is no substitute for sleep — none.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Your body speaks in whispers before it shouts.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Rest is not the opposite of ambition — it is what makes ambition sustainable.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Show up quietly for yourself every day.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The best gift you can give your family is a healthy you.",
+			"author": "Joyce Meyer"
+		},
+		{
+			"text": "Water first. Coffee second. Everything else can wait.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Ten minutes of walking beats zero minutes of planning.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The way you feel matters — it's data too.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "You can rebuild any habit. Start small.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Your body is on your side — listen to it.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The healthiest people rest without guilt.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Time you enjoy wasting is not time wasted.",
+			"author": "Marthe Troly-Curtin"
+		},
+		{
+			"text": "Boredom is the beginning of a good idea.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Every early night is a gift to tomorrow.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Nothing changes if nothing changes.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Your calendar tells you what you value. Read it honestly.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Health is a long game, and every day is a move.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The strongest people I know rest when tired, not when finished.",
+			"author": "Anonymous"
+		}
+	]
 }

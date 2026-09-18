@@ -1,60 +1,210 @@
 {
-  "schemaVersion": 1,
-  "ageGroup": "20-29",
-  "generatedAt": "2026-09-18",
-  "quotes": [
-    { "text": "The first wealth is health.", "author": "Ralph Waldo Emerson" },
-    { "text": "Time and health are two precious assets that we don't recognize and appreciate until they have been depleted.", "author": "Denis Waitley" },
-    { "text": "A good laugh and a long sleep are the two best cures for anything.", "author": "Irish proverb" },
-    { "text": "Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit.", "author": "Ralph Marston" },
-    { "text": "It is health that is real wealth, and not pieces of gold and silver.", "author": "Mahatma Gandhi" },
-    { "text": "Your body is a temple, but only if you treat it as one.", "author": "Astrid Alauda" },
-    { "text": "Take care of your body — it's the only place you have to live.", "author": "Jim Rohn" },
-    { "text": "The doctor of the future will give no medicine, but will instruct his patient in the care of the human frame, in diet, and in the cause and prevention of disease.", "author": "Thomas Edison" },
-    { "text": "Movement is a medicine for creating change in a person's physical, emotional, and mental states.", "author": "Carol Welch" },
-    { "text": "You cannot pour from an empty cup.", "author": "Traditional wisdom" },
-    { "text": "Sleep is the best meditation.", "author": "The Dalai Lama" },
-    { "text": "Habits are the compound interest of self-improvement.", "author": "James Clear" },
-    { "text": "You don't have to be extreme, just consistent.", "author": "Traditional wisdom" },
-    { "text": "The mind is everything. What you think you become.", "author": "Buddha" },
-    { "text": "It's a slow process, but quitting won't speed it up.", "author": "Traditional wisdom" },
-    { "text": "Discipline is the bridge between goals and accomplishment.", "author": "Jim Rohn" },
-    { "text": "How we spend our days is, of course, how we spend our lives.", "author": "Annie Dillard" },
-    { "text": "Comparison is the thief of joy.", "author": "Theodore Roosevelt" },
-    { "text": "Do what is difficult when it is easy, and do what is great when it is small.", "author": "Lao Tzu" },
-    { "text": "The best time to plant a tree was twenty years ago. The second best time is now.", "author": "Chinese proverb" },
-    { "text": "Simplicity is the ultimate sophistication.", "author": "Leonardo da Vinci" },
-    { "text": "Almost everything will work again if you unplug it for a few minutes, including you.", "author": "Anne Lamott" },
-    { "text": "Take rest; a field that has rested gives a bountiful crop.", "author": "Ovid" },
-    { "text": "You can rest and still be moving forward.", "author": "Traditional wisdom" },
-    { "text": "The body benefits from movement, and the mind benefits from stillness.", "author": "Sakyong Mipham" },
-    { "text": "Slow is smooth, and smooth is fast.", "author": "Traditional wisdom" },
-    { "text": "A well-spent day brings happy sleep.", "author": "Leonardo da Vinci" },
-    { "text": "Rest is not a reward for the tired — it is the fuel for the awake.", "author": "Traditional wisdom" },
-    { "text": "The quality of your life is the quality of your habits.", "author": "Traditional wisdom" },
-    { "text": "Notice what your body tells you today — it is your first teacher.", "author": "Traditional wisdom" },
-    { "text": "The most important relationship is the one with yourself.", "author": "Diane Von Furstenberg" },
-    { "text": "Nothing tastes as good as feeling steady feels.", "author": "Traditional wisdom" },
-    { "text": "Your twenties are for building the life you will live in your thirties.", "author": "Traditional wisdom" },
-    { "text": "Say no more often, so that your yes means something.", "author": "Traditional wisdom" },
-    { "text": "Real change is quiet.", "author": "Traditional wisdom" },
-    { "text": "The best route to being interesting is being interested.", "author": "Traditional wisdom" },
-    { "text": "Do the boring things first — the interesting ones need you rested.", "author": "Traditional wisdom" },
-    { "text": "You are what you do repeatedly, not what you say.", "author": "Aristotle" },
-    { "text": "Every meal is a small decision about who you are becoming.", "author": "Traditional wisdom" },
-    { "text": "Motion, not motivation, changes lives.", "author": "Traditional wisdom" },
-    { "text": "Track what you value; you value what you track.", "author": "Traditional wisdom" },
-    { "text": "Days that begin quietly usually end well.", "author": "Traditional wisdom" },
-    { "text": "There is no productivity hack for good sleep.", "author": "Traditional wisdom" },
-    { "text": "Choose your hard: healthy is hard, unhealthy is hard, pick the one you'd rather live with.", "author": "Traditional wisdom" },
-    { "text": "The body remembers what the calendar forgets.", "author": "Traditional wisdom" },
-    { "text": "Small acts of care, repeated, make a life.", "author": "Traditional wisdom" },
-    { "text": "You can measure a life by how well it recovers.", "author": "Traditional wisdom" },
-    { "text": "The best time you'll ever spend is time on your health.", "author": "Traditional wisdom" },
-    { "text": "Rest deserves the calendar as much as work does.", "author": "Traditional wisdom" },
-    { "text": "The habits you build now will still be with you at fifty.", "author": "Traditional wisdom" },
-    { "text": "Notice the food that makes you feel light. Repeat it.", "author": "Traditional wisdom" },
-    { "text": "Water, sleep, sunlight — the three quiet cures.", "author": "Traditional wisdom" },
-    { "text": "You cannot cheat sleep for long — it collects.", "author": "Traditional wisdom" }
-  ]
+	"schemaVersion": 1,
+	"ageGroup": "20-29",
+	"generatedAt": "2026-09-18",
+	"quotes": [
+		{
+			"text": "The first wealth is health.",
+			"author": "Ralph Waldo Emerson"
+		},
+		{
+			"text": "Time and health are two precious assets that we don't recognize and appreciate until they have been depleted.",
+			"author": "Denis Waitley"
+		},
+		{
+			"text": "A good laugh and a long sleep are the two best cures for anything.",
+			"author": "Irish proverb"
+		},
+		{
+			"text": "Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit.",
+			"author": "Ralph Marston"
+		},
+		{
+			"text": "It is health that is real wealth, and not pieces of gold and silver.",
+			"author": "Mahatma Gandhi"
+		},
+		{
+			"text": "Your body is a temple, but only if you treat it as one.",
+			"author": "Astrid Alauda"
+		},
+		{
+			"text": "Take care of your body — it's the only place you have to live.",
+			"author": "Jim Rohn"
+		},
+		{
+			"text": "The doctor of the future will give no medicine, but will instruct his patient in the care of the human frame, in diet, and in the cause and prevention of disease.",
+			"author": "Thomas Edison"
+		},
+		{
+			"text": "Movement is a medicine for creating change in a person's physical, emotional, and mental states.",
+			"author": "Carol Welch"
+		},
+		{ "text": "You cannot pour from an empty cup.", "author": "Anonymous" },
+		{ "text": "Sleep is the best meditation.", "author": "The Dalai Lama" },
+		{
+			"text": "Habits are the compound interest of self-improvement.",
+			"author": "James Clear"
+		},
+		{
+			"text": "You don't have to be extreme, just consistent.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The mind is everything. What you think you become.",
+			"author": "Buddha"
+		},
+		{
+			"text": "It's a slow process, but quitting won't speed it up.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Discipline is the bridge between goals and accomplishment.",
+			"author": "Jim Rohn"
+		},
+		{
+			"text": "How we spend our days is, of course, how we spend our lives.",
+			"author": "Annie Dillard"
+		},
+		{
+			"text": "Comparison is the thief of joy.",
+			"author": "Theodore Roosevelt"
+		},
+		{
+			"text": "Do what is difficult when it is easy, and do what is great when it is small.",
+			"author": "Lao Tzu"
+		},
+		{
+			"text": "The best time to plant a tree was twenty years ago. The second best time is now.",
+			"author": "Chinese proverb"
+		},
+		{
+			"text": "Simplicity is the ultimate sophistication.",
+			"author": "Leonardo da Vinci"
+		},
+		{
+			"text": "Almost everything will work again if you unplug it for a few minutes, including you.",
+			"author": "Anne Lamott"
+		},
+		{
+			"text": "Take rest; a field that has rested gives a bountiful crop.",
+			"author": "Ovid"
+		},
+		{
+			"text": "You can rest and still be moving forward.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The body benefits from movement, and the mind benefits from stillness.",
+			"author": "Sakyong Mipham"
+		},
+		{
+			"text": "Slow is smooth, and smooth is fast.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "A well-spent day brings happy sleep.",
+			"author": "Leonardo da Vinci"
+		},
+		{
+			"text": "Rest is not a reward for the tired — it is the fuel for the awake.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The quality of your life is the quality of your habits.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Notice what your body tells you today — it is your first teacher.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The most important relationship is the one with yourself.",
+			"author": "Diane Von Furstenberg"
+		},
+		{
+			"text": "Nothing tastes as good as feeling steady feels.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Your twenties are for building the life you will live in your thirties.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Say no more often, so that your yes means something.",
+			"author": "Anonymous"
+		},
+		{ "text": "Real change is quiet.", "author": "Anonymous" },
+		{
+			"text": "The best route to being interesting is being interested.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Do the boring things first — the interesting ones need you rested.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "You are what you do repeatedly, not what you say.",
+			"author": "Aristotle"
+		},
+		{
+			"text": "Every meal is a small decision about who you are becoming.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Motion, not motivation, changes lives.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Track what you value; you value what you track.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Days that begin quietly usually end well.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "There is no productivity hack for good sleep.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Choose your hard: healthy is hard, unhealthy is hard, pick the one you'd rather live with.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The body remembers what the calendar forgets.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Small acts of care, repeated, make a life.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "You can measure a life by how well it recovers.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The best time you'll ever spend is time on your health.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Rest deserves the calendar as much as work does.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "The habits you build now will still be with you at fifty.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Notice the food that makes you feel light. Repeat it.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "Water, sleep, sunlight — the three quiet cures.",
+			"author": "Anonymous"
+		},
+		{
+			"text": "You cannot cheat sleep for long — it collects.",
+			"author": "Anonymous"
+		}
+	]
 }
